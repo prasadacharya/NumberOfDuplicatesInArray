@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfDuplicatesInArray", "NumberOfDuplicatesInArray.csproj", "{C136E22B-8D32-4AC3-917D-51EE39FDBEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C136E22B-8D32-4AC3-917D-51EE39FDBEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C136E22B-8D32-4AC3-917D-51EE39FDBEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C136E22B-8D32-4AC3-917D-51EE39FDBEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C136E22B-8D32-4AC3-917D-51EE39FDBEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC2075C-7764-45DA-8D9F-FD191BA2278D}
+	EndGlobalSection
+EndGlobal
